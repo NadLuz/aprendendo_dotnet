@@ -1,0 +1,14 @@
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\bin\Debug\net7.0\aprendendo_dotnet.exe
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\bin\Debug\net7.0\aprendendo_dotnet.deps.json
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\bin\Debug\net7.0\aprendendo_dotnet.runtimeconfig.json
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\bin\Debug\net7.0\aprendendo_dotnet.dll
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\bin\Debug\net7.0\aprendendo_dotnet.pdb
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.AssemblyInfoInputs.cache
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.AssemblyInfo.cs
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.dll
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\refint\aprendendo_dotnet.dll
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.pdb
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\aprendendo_dotnet.genruntimeconfig.cache
+C:\Users\nadja\Documents\GitHub\aprendendo_dotnet\obj\Debug\net7.0\ref\aprendendo_dotnet.dll
