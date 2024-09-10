@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\aprendendo_dotnet.csproj": {}
+    "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\Primeiro_programa\\Primeiro_programa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\aprendendo_dotnet.csproj": {
+    "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\Primeiro_programa\\Primeiro_programa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\aprendendo_dotnet.csproj",
-        "projectName": "aprendendo_dotnet",
-        "projectPath": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\aprendendo_dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\Primeiro_programa\\Primeiro_programa.csproj",
+        "projectName": "Primeiro_programa",
+        "projectPath": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\Primeiro_programa\\Primeiro_programa.csproj",
         "packagesPath": "C:\\Users\\nadja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\obj\\",
+        "outputPath": "C:\\Users\\nadja\\Documents\\GitHub\\aprendendo_dotnet\\Primeiro_programa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadja\\AppData\\Roaming\\NuGet\\NuGet.Config"
